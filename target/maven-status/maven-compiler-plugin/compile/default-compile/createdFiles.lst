@@ -1,0 +1,3 @@
+com\example\demo\DemoApplication.class
+com\example\demo\domain\Persona.class
+com\example\demo\controller\rest\PersonaRestController.class

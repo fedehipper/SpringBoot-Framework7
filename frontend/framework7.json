@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Users\\Hipper\\Desktop\\demo\\frontend",
+  "type": [
+    "web"
+  ],
+  "name": "demofront",
+  "framework": "react",
+  "template": "tabs",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
